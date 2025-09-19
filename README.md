@@ -11,3 +11,5 @@ mostra a estrutura de classes de um sistema de desenvolvimento de software.
 Integrantes: 
 01769295 - Maria Luiza Lopes da Silva
 01728530 - Gabriela Guedes Soares
+01798390- Dafny karolyne Barbosa Silva 
+01815346 - Raisa Lincar
